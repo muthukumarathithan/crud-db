@@ -1,1 +1,33 @@
 
+{
+  "users":[
+           {
+        "id": 1,
+        "name": "muthu",
+        "city": "chennai",
+        "age": 26,
+        "mobile": "8000000000",
+      },
+      {
+        "id": 2,
+        "name": "kumar",
+        "city": "bangalore",
+        "age": 27,
+        "mobile": "81111111111",
+      },
+      {
+        "id": 3,
+        "name": "Durai",
+        "city": "mumbai",
+        "age": 28,
+        "mobile": "83333333333",
+      },
+      {
+        "id": 4,
+        "name": "Gayathri",
+        "city": "kolkotha",
+        "age": 29,
+        "mobile": "844444444444",
+      },
+  ]
+}
