@@ -1,33 +1,14 @@
-
 {
-  "users":[
-           {
-        "id": 1,
-        "name": "muthu",
-        "city": "chennai",
-        "age": 26,
-        "mobile": "8000000000",
-      },
-      {
-        "id": 2,
-        "name": "kumar",
-        "city": "bangalore",
-        "age": 27,
-        "mobile": "81111111111",
-      },
-      {
-        "id": 3,
-        "name": "Durai",
-        "city": "mumbai",
-        "age": 28,
-        "mobile": "83333333333",
-      },
-      {
-        "id": 4,
-        "name": "Gayathri",
-        "city": "kolkotha",
-        "age": 29,
-        "mobile": "844444444444",
-      },
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
