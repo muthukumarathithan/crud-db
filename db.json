@@ -1,14 +1,13 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "Name": "Muthu","Age":28,"City":"Chennai","Mobile":"99999999999"},
+    { "id": 2, "Name": "Kumar","Age":28,"City":"Chennai","Mobile":"99999999999" },
+    { "id": 3, "Name": "Ram","Age":28,"City":"Chennai","Mobile":"99999999999" },
+    { "id": 4, "Name": "Ravi","Age":28,"City":"Chennai","Mobile":"99999999999" },
+    { "id": 5, "Name": "Siva","Age":28,"City":"Chennai","Mobile":"99999999999" },
+    { "id": 6, "Name": "Kannan","Age":28,"City":"Chennai","Mobile":"99999999999" },
+    { "id": 7, "Name": "Ananthan","Age":28,"City":"Chennai","Mobile":"99999999999" },
+    { "id": 8, "Name": "Kuyil","Age":28,"City":"Chennai","Mobile":"99999999999" },
+    { "id": 9, "Name": "Uthi","Age":28,"City":"Chennai","Mobile":"99999999999" },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
