@@ -8,6 +8,6 @@
     { "id": 6, "Name": "Kannan","Age":28,"City":"Chennai","Mobile":"99999999999" },
     { "id": 7, "Name": "Ananthan","Age":28,"City":"Chennai","Mobile":"99999999999" },
     { "id": 8, "Name": "Kuyil","Age":28,"City":"Chennai","Mobile":"99999999999" },
-    { "id": 9, "Name": "Uthi","Age":28,"City":"Chennai","Mobile":"99999999999" },
+    { "id": 9, "Name": "Uthi","Age":28,"City":"Chennai","Mobile":"99999999999" }
   ],
 }
