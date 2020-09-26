@@ -6,7 +6,7 @@
             "age": "29",
             "mobile": "9999999999",
             "city":"Mayiladuthurai"
-            "country":"India"
+            "country": "India"
         },
         {
            "id": 2,
@@ -14,15 +14,15 @@
             "age": "29",
             "mobile": "888888888",
             "city":"Mayiladuthurai"
-            "country":"India"
+            "country": "India"
         },
         {
             "id": 3,
             "name": "Gayathri",
             "age": "29",
             "mobile": "7777777777",
-            "city":"Mayiladuthurai"
-            "country":"India"
+            "city": "Mayiladuthurai"
+            "country": "India"
         },
       ]
 }
